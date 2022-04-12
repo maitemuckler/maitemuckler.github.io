@@ -1,5 +1,5 @@
 ---
-title: "My cats have a website!"
+title: "Estatística Fácil"
 ---
 
 This is John.
