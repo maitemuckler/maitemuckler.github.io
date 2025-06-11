@@ -4,14 +4,7 @@ title: "Sobre"
 author_profile: true
 ---
 
-Sou **Maitê Mückler**, doutoranda em Astrofísica pela UFRGS e mestranda em Estatística.
+Hi, I’m Maitê Mückler — a Brazilian astrophysicist and statistician. I’m currently a PhD student in Astronomy at the Universidade Federal do Rio Grande do Sul (UFRGS), where I investigate how galaxy environments influence the suppression of star formation. 
 
-Me interesso por evolução de galáxias em ambientes densos, quenching, transformação morfológica e modelagem estatística aplicada a grandes levantamentos observacionais, como SDSS e GALEX.
-
-Também gosto de ensinar, escrever, explorar dados, trabalhar com LaTeX, e tocar projetos paralelos criativos — como a [Nebula Acessórios](https://www.instagram.com/nebulaacessorios), minha lojinha de acessórios com vibes cósmicas. ✨
-
-- 📍 Porto Alegre, Brasil  
-- 🔭 Pesquisa em galáxias, AGNs, morfologia e ambientes  
-- 💻 Github: [@maitemuckler](https://github.com/maitemuckler)  
-- 📇 ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)  
+Alongside my PhD, I am also pursuing a Master's degree in Statistics at UFRGS, with the goal of applying advanced statistical modelling to the analysis of large-scale galaxy surveys. My work bridges observational astrophysics and statistical inference :)
 
