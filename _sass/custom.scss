@@ -1,0 +1,14 @@
+// Títulos (h1, h2...)
+h1, h2, h3, h4, h5, h6 {
+  color: #ff6f61 !important;  // tom coral
+}
+
+// Links normais
+a {
+  color: #3366cc;  // azul link clássico
+}
+
+// Links quando o mouse passa por cima
+a:hover {
+  color: #cc3366;  // rosa escuro
+}
