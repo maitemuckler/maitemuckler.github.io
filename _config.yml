@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 #site_theme               : "default"
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 title                    : "@maitemuckler"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maitê Mückler"
 description              : &description "personal description"
 url                      : https://maitemuckler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
