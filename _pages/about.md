@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Sobre"
+title: "Hi!"
 author_profile: true
 ---
 
