@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Maitê Mückler"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://maitemuckler.github.io 
+url                      : https://maitemuckler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maitemuckler/maitemuckler.github.io"
 
