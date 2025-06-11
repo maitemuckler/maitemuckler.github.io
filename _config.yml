@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Maitê Mückler"
   pronouns         : # example: "she/her"  
-  bio              : "Brazilian astrophysicist and statistician"
+  bio              : #"Brazilian astrophysicist and statistician"
   location         : "Porto Alegre/Brazil"
   employer         : "UFRGS"
   uri              : # URL
