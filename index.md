@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Me"
+title: "Hey!"
 permalink: /
 author_profile: true
 ---
